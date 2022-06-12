@@ -1,0 +1,16 @@
+D:\작업폴더\Visual-Studio_DotNet\Final_Project\Final_Project\bin\Debug\net5.0\Final_Project.exe
+D:\작업폴더\Visual-Studio_DotNet\Final_Project\Final_Project\bin\Debug\net5.0\Final_Project.deps.json
+D:\작업폴더\Visual-Studio_DotNet\Final_Project\Final_Project\bin\Debug\net5.0\Final_Project.runtimeconfig.json
+D:\작업폴더\Visual-Studio_DotNet\Final_Project\Final_Project\bin\Debug\net5.0\Final_Project.runtimeconfig.dev.json
+D:\작업폴더\Visual-Studio_DotNet\Final_Project\Final_Project\bin\Debug\net5.0\Final_Project.dll
+D:\작업폴더\Visual-Studio_DotNet\Final_Project\Final_Project\bin\Debug\net5.0\Final_Project.pdb
+D:\작업폴더\Visual-Studio_DotNet\Final_Project\Final_Project\obj\Debug\net5.0\Final_Project.csproj.AssemblyReference.cache
+D:\작업폴더\Visual-Studio_DotNet\Final_Project\Final_Project\obj\Debug\net5.0\Final_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\작업폴더\Visual-Studio_DotNet\Final_Project\Final_Project\obj\Debug\net5.0\Final_Project.AssemblyInfoInputs.cache
+D:\작업폴더\Visual-Studio_DotNet\Final_Project\Final_Project\obj\Debug\net5.0\Final_Project.AssemblyInfo.cs
+D:\작업폴더\Visual-Studio_DotNet\Final_Project\Final_Project\obj\Debug\net5.0\Final_Project.csproj.CoreCompileInputs.cache
+D:\작업폴더\Visual-Studio_DotNet\Final_Project\Final_Project\obj\Debug\net5.0\Final_Project.dll
+D:\작업폴더\Visual-Studio_DotNet\Final_Project\Final_Project\obj\Debug\net5.0\refint\Final_Project.dll
+D:\작업폴더\Visual-Studio_DotNet\Final_Project\Final_Project\obj\Debug\net5.0\Final_Project.pdb
+D:\작업폴더\Visual-Studio_DotNet\Final_Project\Final_Project\obj\Debug\net5.0\Final_Project.genruntimeconfig.cache
+D:\작업폴더\Visual-Studio_DotNet\Final_Project\Final_Project\obj\Debug\net5.0\ref\Final_Project.dll
